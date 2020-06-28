@@ -4,7 +4,7 @@
 
 **1. Parte de regresión**
  
- * 1. Limpieza de datos + generación de ficheros train, test, validation para regresión. (La variable Price queda continua):
+ - 1. Limpieza de datos + generación de ficheros train, test, validation para regresión. (La variable Price queda continua):
  https://colab.research.google.com/drive/18Ojmqo9DM1DUQwoqmRc3SexZ5Ao8x7Oy?usp=sharing
  
  * 2. Carga de imágenes correspondientes a cada dataset de train, test y validation:
