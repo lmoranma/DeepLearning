@@ -7,16 +7,16 @@
  1. Limpieza de datos + generación de ficheros train, test, validation para regresión. (La variable Price queda continua):
  https://colab.research.google.com/drive/18Ojmqo9DM1DUQwoqmRc3SexZ5Ao8x7Oy?usp=sharing
  
- * 2. Carga de imágenes correspondientes a cada dataset de train, test y validation:
+ 2. Carga de imágenes correspondientes a cada dataset de train, test y validation:   
  https://colab.research.google.com/drive/1DbfzOWuhmPna2gMphXvqMAQducR8Ixtp
  
- * 3. Regresión con datos numéricos y categóricos:
+ 3. Regresión con datos numéricos y categóricos:    
  https://colab.research.google.com/drive/1qgWBzRKD1qSsp9NrpEyNpR2vV4TBMtoJ
  
- * 4. Regresión con imágenes:
+ 4. Regresión con imágenes:    
  https://colab.research.google.com/drive/1FRMVWBtr0bHvP3Z3w7fU483qDeEypRVo
  
- * 8. Regresión con imágenes y datos numéricos:
+ 8. Regresión con imágenes y datos numéricos:    
  https://colab.research.google.com/drive/1crDPHcFW_AkkgASMss-QGDemitGqNPPS
  
  
